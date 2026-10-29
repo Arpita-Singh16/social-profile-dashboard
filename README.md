@@ -1,4 +1,3 @@
-# social-profile-dashboard
 # Social Profile Dashboard
 
 An interactive Power BI dashboard that analyzes [social media profile performance, e.g. followers, engagement, reach, and content trends].
@@ -12,8 +11,7 @@ An interactive Power BI dashboard that analyzes [social media profile performanc
 
 ## Data
 
-- **Source:** [Excel / CSV / API / manually collected]
-- **Period covered:** [e.g. Jan 2025 – Dec 2025]
+- **Source:** [Excel / CSV / API]
 - **Main fields:** [e.g. Platform, Date, Followers, Likes, Comments, Shares]
 
 ## Tools Used
